@@ -1,4 +1,4 @@
-# hacktivate
+# Hacktivate
 
 Hackathon Problem Statement: AI-Driven Phishing Bot
 System
