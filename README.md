@@ -161,21 +161,21 @@ will be final. Participants agree to abide by these decisions.
 
 TO START THE BACKEND SERVER
 
-1. Navigate to backend program file
+1. Navigate to backend program file:-
    cd backend
-2. Install the dependencies
+2. Install the dependencies:-
    npm install
-3. to run the backend server
+3. to run the backend server:-
    node server.js
    
 T0 START THE FRONTEND
 
-1. Navigate to Frontend program file 
+1. Navigate to Frontend program file:- 
    cd frontend
-2. Install the Dependencies
+2. Install the Dependencies:-
    npm install
-3. To run the frontend
+3. To run the frontend:-
    npm start
 
-**Node_module files were large so we were not able to upload here but the command npm install will download the necessary dependencies requiered for the program**
+**Node_modules files were large so we were not able to upload here but the command npm install will download the necessary dependencies requiered for the program**
    
