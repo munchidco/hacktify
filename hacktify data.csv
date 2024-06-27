@@ -1,0 +1,14 @@
+email,status,regexp,gibberish,disposable,webmail,mx_records,smtp_server,smtp_check,accept_all,block,score
+babli.singh@thinkexam.com,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,91
+contact@maxmunus.com,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,100
+bhavani.sirasgi@peoplecentro.com,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,88
+antraghrs@gmail.com,valid,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,89
+shreychadha203@gmail.com,valid,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,88
+chadhashrey00@gmail.com,valid,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,92
+avirni.r@elabsinfotech.com,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,88
+caroline.j@liveconnections.in,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,90
+rdarla@jsanconsulting.com,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,92
+info@antoniasolution.com,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,100
+sbfinancesolutionsbpo@gmail.com,valid,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,92
+shweta.chauhan@nityo.com,accept_all,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,74
+sales4@radhashok.com,valid,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,89
