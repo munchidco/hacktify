@@ -157,7 +157,7 @@ soon as possible. Withdrawn teams will not be eligible for any prizes or recogni
 Conflict Resolution: In the event of disputes or conflicts, the hackathon organizers' decisions
 will be final. Participants agree to abide by these decisions.
 
-#Guide to run the program
+**Guide to run the program**
 TO START THE BACKEND SERVER
 1. Navigate to backend program file
    cd backend
