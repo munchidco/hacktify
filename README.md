@@ -158,14 +158,18 @@ Conflict Resolution: In the event of disputes or conflicts, the hackathon organi
 will be final. Participants agree to abide by these decisions.
 
 **Guide to run the program**
+
 TO START THE BACKEND SERVER
+
 1. Navigate to backend program file
    cd backend
 2. Install the dependencies
    npm install
 3. to run the backend server
    node server.js
+   
 T0 START THE FRONTEND
+
 1. Navigate to Frontend program file 
    cd frontend
 2. Install the Dependencies
